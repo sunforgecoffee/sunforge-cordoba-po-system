@@ -28,3 +28,8 @@ Edit `index.html` and replace:
 - `PASTE_CORDOBA_PO_PDF_ARCHIVE_URL_HERE`
 
 Then commit and push to GitHub. Netlify will deploy the doorway.
+
+
+## R30 Production URL Status
+
+The Netlify doorway index.html has been updated with the current Google Apps Script Web App URL. The PDF archive URL is intentionally not published in this public repository.
