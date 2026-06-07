@@ -1,2 +1,8 @@
 [build]
   publish = "."
+
+[[redirects]]
+  from = "/cordoba-po/*"
+  to = "/"
+  status = 302
+  force = true
